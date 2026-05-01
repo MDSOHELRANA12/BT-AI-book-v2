@@ -91,3 +91,9 @@ app = main
 
 if __name__ == "__main__":
     main()
+
+# এই অংশটুকু আপনার app.py ফাইলের একদম নিচে পেস্ট করুন
+app = main
+
+if __name__ == "__main__":
+    main()
